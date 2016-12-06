@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestDBApp</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="buffer_limit">Buffer limit</string>
+    <string name="save">Save</string>
+    <string name="enter_your_limit">Please enter your limit</string>
+    <string name="too_much_symbols">Too much symbols. Please keep your limit</string>
+    <string name="limit_cant_be">Limit can\'t be less than 20 or more than 1000</string>
+</resources>
